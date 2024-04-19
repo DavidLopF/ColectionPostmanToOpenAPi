@@ -1,1 +1,1 @@
-# ColectionPostmanToOpenAPi
+# collection postman to open api
